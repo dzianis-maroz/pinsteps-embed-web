@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render correctly to Match Snapshot 1`] = `
+<div
+  className="route-data-block-style"
+  id="route-data-block"
+>
+  <div
+    className="left-column"
+  >
+    <p>
+      text
+    </p>
+    <div
+      className="route-details"
+    >
+      <div>
+        <p
+          className="parameter"
+        >
+          Distance
+        </p>
+        <p
+          className="parameter-value"
+        >
+          55.8km
+        </p>
+      </div>
+      <div>
+        <p
+          className="parameter"
+        >
+          Time
+        </p>
+        <p
+          className="parameter-value"
+        >
+          4h 49m
+        </p>
+      </div>
+      <div>
+        <p
+          className="parameter"
+        >
+          Raiting
+        </p>
+        <p
+          className="parameter-value"
+        >
+          2
+        </p>
+      </div>
+    </div>
+    <div
+      className="author"
+    >
+      <a
+        href="https://web.pinsteps.com/profile/undefined/tracks"
+      >
+        <img
+          className="author-photo"
+          src="https://graph.facebook.com/facebook user id/picture"
+        />
+      </a>
+      <p>
+        full name
+      </p>
+    </div>
+  </div>
+  <div
+    className="right-column"
+  >
+    <img
+      src="link"
+    />
+    <a
+      href="https://pinsteps.page.link/?amv=35&apn=com.pinsteps&efr=0&ibi=com.pinsteps.ios&isi=1271374440&link=https%3A%2F%2Fweb.pinsteps.com%2Fshare%2F220%3Fl%3Den"
+    >
+      <button>
+        Get route
+      </button>
+    </a>
+  </div>
+  <div
+    className="logo"
+  >
+    <a
+      href="https://pinsteps.com?utm_source=embed"
+      target="_blank"
+    >
+      <img
+        src="pinsteps-logo-black2 1.svg"
+      />
+    </a>
+  </div>
+</div>
+`;
