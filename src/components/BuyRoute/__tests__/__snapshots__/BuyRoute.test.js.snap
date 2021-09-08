@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render correctly to Match Snapshot 1`] = `
+<div>
+  <h1>
+    Buy Route
+  </h1>
+  <a
+    href="https://pinsteps.page.link/?amv=35&apn=com.pinsteps&efr=0&ibi=com.pinsteps.ios&isi=1271374440&link=https%3A%2F%2Fweb.pinsteps.com%2Fshare%2F140%3Fl%3Den"
+  >
+    <button>
+      Get route
+    </button>
+  </a>
+</div>
+`;
